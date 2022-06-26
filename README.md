@@ -1,3 +1,3 @@
 # portfolio of projects 
 
-1. Blockchain & Cryptocurrency
+1. Blockchain &  Cryptocurrency
